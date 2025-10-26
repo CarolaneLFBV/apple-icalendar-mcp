@@ -371,7 +371,7 @@ const TOOLS: Tool[] = [
 // Create server instance
 const server = new Server(
   {
-    name: "apple-icalendar-mcp",
+    name: "🍎 Apple Calendar",
     version: "1.0.0",
   },
   {
