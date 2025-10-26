@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "apple-icalendar": {
+      "command": "node",
+      "args": [
+        "/CHEMIN_ABSOLU_VERS_LE_PROJET/apple-icalendar-mcp/dist/index.js"
+      ],
+      "env": {}
+    }
+  }
+}
